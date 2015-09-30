@@ -73,6 +73,7 @@ function addGameInfo() {
   }//end of else if
     
     
+    
   }//end of for loop
 }//end of function
 
