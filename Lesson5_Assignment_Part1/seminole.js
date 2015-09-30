@@ -72,6 +72,7 @@ function addGameInfo() {
              paragraphs[1].innerHTML += opponents[i];
   }//end of else if
     
+    
   }//end of for loop
 }//end of function
 
