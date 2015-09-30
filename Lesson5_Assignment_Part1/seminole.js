@@ -79,6 +79,7 @@ function addGameInfo() {
 //This statement will add the column headers to the page immediately when the page loads in the browser
 window.addEventListener("load", setUpPage(), false);
 
+
 // function to load the calendar content in the calendar when the page loads
 function setUpPage()  {
    addColumnHeaders();
